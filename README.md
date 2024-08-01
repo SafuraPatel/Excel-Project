@@ -1,6 +1,6 @@
 # Excel-Project
 
-☆☆ Vrinda Store Sales Report Overview ☆☆
+☆☆ Pari Store Sales Report Overview ☆☆
 
 
 ◇ Objective:
